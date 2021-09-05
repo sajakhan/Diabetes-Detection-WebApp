@@ -1,5 +1,5 @@
 # Diabetes-Detection-WebApp
-This program applies basic machine learning concepts on kaggle  Dataset to predict if a person is diabetic or not.
+This program applies basic machine learning concepts on kaggle Pima indian Diabetes database Dataset to predict if a person is diabetic or not.
 ----------------------------
 Software and Libraries
 
@@ -23,7 +23,8 @@ The training sample space is used to train the program and predictions are made 
 # HOW TO RUN
 save the file in .py format
 in your terminal type
-# streamlit run (your file path)\filename.py
+streamlit run (your file path)\filename.py
+you can view the webappin your browser by typing localhost:8501
 
 
 
